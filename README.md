@@ -8,7 +8,8 @@
 	no teachers, no classrooms, students learning from their fellow students (peer to peer
 	learning), with a methodology that develops both computing and life skills. The 42 cursus is
 	free for whoever is approved in its selection process* - the so-called "Piscine" - becoming
-	thus "cadets" (42's students). Personally, it was one of the most amazing processes I've ever been a part of.
+	thus "cadets" (42's students).
+	Personally, it was one of the most amazing processes I've ever been a part of.
 	Encouragement to learn more about the school 42.
 
   <img src="https://static.globalnoticias.pt/dv/image.jpg?brand=DV&type=generate&guid=4d14058e-7e5f-4322-ad90-fb269b89bf09">
