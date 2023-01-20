@@ -37,3 +37,7 @@
   
 ## 🌌 My Process:
   <img align="center" alt="rcaldas-" src="https://cdn.discordapp.com/attachments/1059801232010645557/1059874277098266635/Lista_processos_42Lisboa.png">
+  
+## Disclaimer
+	I share my code in the repository, use at your own risk.
+	Try not to copy but use it as a guide so you can make your own code
