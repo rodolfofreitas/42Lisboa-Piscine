@@ -40,4 +40,4 @@
   
 ## Disclaimer
 	I share my code in the repository, use at your own risk.
-	Try not to copy but use it as a guide so you can make your own code
+	Try not to copy but use it as a guide so you can make your own code.
